@@ -362,8 +362,6 @@ def main():
 
     return not VALID == True
 
-    return 0
-
 
 if __name__ == '__main__':
     retValue = main()
